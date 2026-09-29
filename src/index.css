@@ -6,7 +6,7 @@ html {
 body {
   margin: 0;
   color: #1e293b;
-  font-family: "IBM Plex Sans JP", "Hiragino Sans", "Yu Gothic", sans-serif;
+  font-family: 'Noto Sans JP', 'Yu Gothic', 'Meiryo', 'Hiragino Kaku Gothic ProN', sans-serif;
   font-size: 16px;
   line-height: 1.6;
 }
